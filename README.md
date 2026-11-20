@@ -10,11 +10,13 @@ I work on [data governance · AI governance · connectivity and affordability ·
 - **Technical fluency:** Python [or R] for data analysis, reproducible notebooks, data visualisation, Git/GitHub, reading APIs, technical standards and model documentation
 
 ### Featured projects
-| Project | The question | What it shows |
+In progress. Each project starts from raw public data and ends with a reproducible notebook, a chart and a 2-page policy brief.
+
+| Project | The question | What it will show |
 |---|---|---|
-| [Mobile data affordability](https://github.com/lizorembo-policy/data-affordability) | Is 1GB of mobile data affordable in [country or region]? | Python, raw ITU and World Bank data, charts, 2-page brief |
-| [Data protection law comparator](https://github.com/lizorembo-policy/dp-law-comparator) | How do [region]'s data protection laws differ on key rights? | Legal coding, structured dataset, interactive map |
-| [Disruption explainer](https://github.com/lizorembo-policy/disruption-explainer) | What did the [event] internet disruption look like in the data? | Network measurement data, timeline chart, public explainer |
+| Mobile data affordability | Is 1GB of mobile data affordable in [country or region]? | Python, raw ITU and World Bank data, charts, 2-page brief |
+| Data protection law comparator | How do [region]'s data protection laws differ on key rights? | Legal coding, structured dataset, interactive map |
+| Disruption explainer | What did the [event] internet disruption look like in the data? | Network measurement data, timeline chart, public explainer |
 
 ### Selected writing and talks
 - [Title of report or brief](https://example.org) · [Publisher], [Year]
